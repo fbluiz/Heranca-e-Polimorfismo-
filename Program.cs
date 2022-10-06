@@ -44,9 +44,6 @@ namespace Herança_e_Polimorfismo
             {
                 Console.WriteLine(func.Nome + "- $ " +func.Pagamento().ToString("F2"));
             }
-
-         
-        
         }
      }
  }
