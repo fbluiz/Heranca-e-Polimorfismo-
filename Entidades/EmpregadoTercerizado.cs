@@ -23,11 +23,5 @@ namespace Herança_e_Polimorfismo.Entidades
 
            
         }
-
-
-
-
-
-
     }
 }
